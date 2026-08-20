@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze Shopify sales performance,
 
 ## Dashboard Preview
 
-![Shopify Sales & Customer Funnel Dashboard](screenshots/Shopifydashboard.png)
+![Shopify Sales & Customer Funnel Dashboard](screenshots/Shopifydashboard.PNG)
 
 ## Project Overview
 
